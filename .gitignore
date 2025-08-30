@@ -1,0 +1,8 @@
+Build/Obj
+Build/Target
+Engine/*.vcxproj*
+Game/*.vcxproj*
+*/__pycache__
+*.sln
+.vs
+.vscode
